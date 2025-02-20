@@ -1,2 +1,2 @@
 # astro-collections
-Miscellaneous collection of artifacts
+Miscellaneous collection of astronomy artifacts
